@@ -11,6 +11,7 @@ This repository contains scripts and exercises from my journey to learn Python. 
    git clone https://github.com/harshify/Python.git
    ```
    
+   
 3. Browse the folders for different topics and scripts.
    
 5. Run the scripts with Python.
