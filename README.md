@@ -1,7 +1,6 @@
 # Python Learning Journey 🚀
 
 This repository contains scripts and exercises from my journey to learn Python. It covers everything from basic concepts to intermediate Python skills.
-
 ---
 
 ## 📖 How to Use
